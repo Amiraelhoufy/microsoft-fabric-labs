@@ -16,7 +16,7 @@ In this repository, I covered the following modules from the **Microsoft Fabric 
 * Introduction to end-to-end analytics using Microsoft Fabric  ✅
 * Get started with lakehouses in Microsoft Fabric  ✅
 * Use Apache Spark in Microsoft Fabric  ✅
-* Work with Delta Lake tables in Microsoft Fabric
+* Work with Delta Lake tables in Microsoft Fabric ✅
 * Orchestrate processes and data movement with Microsoft Fabric
 * Ingest Data with Dataflows Gen2 in Microsoft Fabric
 * Get started with data warehouses in Microsoft Fabric
@@ -90,6 +90,35 @@ In this task:
 * Created visualizations using built-in charts and Matplotlib
 
 ---
+
+### 🔹 Task 3: Use delta tables in Apache Spark
+
+Based on the official lab:
+👉 [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html
+)
+
+In this task:
+
+* Created Delta tables from DataFrames
+* Differentiated between managed and external tables
+* Performed data operations using Spark SQL (INSERT, UPDATE)
+* Used Delta Lake API to update data directly from file paths
+* Explored table history using DESCRIBE HISTORY
+* Used Time Travel to read previous versions of data
+* Optimized tables using Optimize Write and OPTIMIZE
+* Applied V-Order to improve read performance
+* Used VACUUM to clean up old data files
+* Applied partitioning to improve query performance
+* Worked with streaming data using Spark Structured Streaming
+* Read streaming data from source files
+* Transformed streaming data (filtering, derived columns)
+* Wrote streaming data to Delta tables (sink)
+* Used checkpointing for fault tolerance in streaming
+* Stopped streaming jobs to avoid unnecessary resource usage
+
+---
+
+
 
 ## 🛠️ Technologies Used
 
