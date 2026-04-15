@@ -118,8 +118,18 @@ In this task:
 
 ---
 
+### 🔹 Task 6: Analyze data in a data warehouse
+Based on the official lab:
+👉 [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06-data-warehouse.html
+](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06-data-warehouse.html
+)
 
+In this task:
 
+* Create Data Warehouse
+* Create Tables & Load Data (Use T-SQL & Visual Query)
+* Create View
+* Creating a Data Model (Semantic Model) & Define relationships
 ## 🛠️ Technologies Used
 
 * Microsoft Fabric
