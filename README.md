@@ -17,9 +17,9 @@ In this repository, I covered the following modules from the **Microsoft Fabric 
 * Get started with lakehouses in Microsoft Fabric  ✅
 * Use Apache Spark in Microsoft Fabric  ✅
 * Work with Delta Lake tables in Microsoft Fabric ✅
-* Orchestrate processes and data movement with Microsoft Fabric
-* Ingest Data with Dataflows Gen2 in Microsoft Fabric
-* Get started with data warehouses in Microsoft Fabric
+* Orchestrate processes and data movement with Microsoft Fabric  ✅
+* Ingest Data with Dataflows Gen2 in Microsoft Fabric  ✅
+* Get started with data warehouses in Microsoft Fabric  ✅
 * Get started with Real-Time Intelligence in Microsoft Fabric
 * Get started with data science in Microsoft Fabric
 * Administer a Microsoft Fabric environment
@@ -115,6 +115,20 @@ In this task:
 * Wrote streaming data to Delta tables (sink)
 * Used checkpointing for fault tolerance in streaming
 * Stopped streaming jobs to avoid unnecessary resource usage
+
+---
+
+### 🔹 Task 5: Dataflows (Gen2) Lab
+
+Based on the official lab:
+👉 [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/05-dataflows-gen2.html](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/05-dataflows-gen2.html)
+
+In this task:
+
+* Create Dataflow (Gen2)
+* Load & Transform Data
+* Add Data Destination & run Dataflow
+* Use Dataflow in Pipeline & Verify data
 
 ---
 
