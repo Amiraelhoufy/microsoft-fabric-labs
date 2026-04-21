@@ -20,7 +20,7 @@ In this repository, I covered the following modules from the **Microsoft Fabric 
 * Orchestrate processes and data movement with Microsoft Fabric  ✅
 * Ingest Data with Dataflows Gen2 in Microsoft Fabric  ✅
 * Get started with data warehouses in Microsoft Fabric  ✅
-* Get started with Real-Time Intelligence in Microsoft Fabric
+* Get started with Real-Time Intelligence in Microsoft Fabric ✅
 * Get started with data science in Microsoft Fabric
 * Administer a Microsoft Fabric environment
   
@@ -144,6 +144,20 @@ In this task:
 * Create Tables & Load Data (Use T-SQL & Visual Query)
 * Create View
 * Creating a Data Model (Semantic Model) & Define relationships
+
+---
+
+### 🔹 Task 7: Real-Time Intelligence
+Based on the official lab:
+👉 [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/07-real-time-Intelligence.html](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/07-real-time-Intelligence.html)
+
+In this task:
+
+* Create an eventstream & eventhouse
+* Query the captured data
+* Create a real-time dashboard
+* Create an alert
+
 ## 🛠️ Technologies Used
 
 * Microsoft Fabric
