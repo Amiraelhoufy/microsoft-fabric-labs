@@ -21,7 +21,7 @@ In this repository, I covered the following modules from the **Microsoft Fabric 
 * Ingest Data with Dataflows Gen2 in Microsoft Fabric  ✅
 * Get started with data warehouses in Microsoft Fabric  ✅
 * Get started with Real-Time Intelligence in Microsoft Fabric ✅
-* Get started with data science in Microsoft Fabric
+* Get started with data science in Microsoft Fabric ✅
 * Administer a Microsoft Fabric environment
   
 ### 🔹 Implement a data warehouse with Microsoft Fabric:
@@ -157,6 +157,27 @@ In this task:
 * Query the captured data
 * Create a real-time dashboard
 * Create an alert
+
+
+---
+
+### 🔹 Task 8: Data science
+Based on the official lab:
+👉 [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08-data-science-get-started.html](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08-data-science-get-started.html)
+
+In this task:
+
+* Learn end-to-end data science workflow in Microsoft Fabric (ingest → explore → prepare → train → track → save models)
+* Create Notebook and Ingest & Explore Data
+* Prepare Data and Train Machine Learning Models:
+  1. Regression Model: Predict continuous value (Y)
+  - Use: LinearRegression (scikit-learn)
+    
+  2. Classification Model: Predict binary label (Risk)
+  - Use: LogisticRegression
+* Track & Evaluate Models
+
+---
 
 ## 🛠️ Technologies Used
 
